@@ -1,5 +1,5 @@
 # Data_job_market_analysis
-This is a comprehensive SQL project in which the job market for data related careers are explored. Data is imported into PostgreSQL database using VScode. Data was imported from csv files saved locally. Using the create_table operation, four different tables are created. These tables are used to carry out the analysis. 
+This is a comprehensive SQL project in which the job market for data related careers are explored. Data is imported into PostgreSQL database using VScode. Data was imported from csv files (saved locally). Using the create_table operation, four different tables are created. These tables are used to carry out the analysis. 
 - job_postings_fact
 - company_dim
 - skills_dim_job
@@ -7,7 +7,7 @@ This is a comprehensive SQL project in which the job market for data related car
 
 ## Insights
 ### Statement 01: Find the top 10 highest paying remote jobs for Data Analyst. Make sure to filter the job_tile_short by Data Analyst
-- Mantys(company name) with yearly salary of $650,000, followed by Meta with yearly salary of $336,500. At third, we have AT&T with yearly salary of $229,829
+- Top 3 comapnies are Mantys with yearly salary of $650,000, followed by Meta with yearly salary of $336,500. At third, we have AT&T with yearly salary of $229,829
 ### Statement 02: From Statement 01 output, find out the skills that are needed for these 10 jobs
 - SQL, Python and R are the top 3 skills needed for these highest paying jobs
 ### Statement 03: Find the most in-demand skills for Data Analyst role. Filter by top 5
