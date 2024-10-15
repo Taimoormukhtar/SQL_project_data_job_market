@@ -15,4 +15,4 @@ This is a comprehensive SQL project in which the job market for data related car
 ### Statement 04: Find the most promising skills by Average yearly Salary. Filter out top 10
 - SVN, Solidity and Couchbase are the most promising skllls based on yearly salary. But these are very less in demand
 ### Statement 05: Find the most optimal(high demand and top paying) skills for Data Analyst. Focus on remote job posting
-- The most promising skills based on highest demand and average salary are Python, R, Tableau, SAS, Power BI and SQL. For skills in intermediate demand, go, hadoop, snowflake are most promising with an average yearly salary of approximately $115.3k, $113.1k and $112.9k respectively. However the average salary for Python and R is $101,397 and $100,499 respectively. 
+- The most promising skills based on highest demand and average salary are Python, R, Tableau, SAS, Power BI and SQL. For skills in intermediate demand we have go, hadoop and snowflake as most promising with an average yearly salary of approximately $115.3k, $113.1k and $112.9k respectively. However the average salary for Python and R is $101,397 and $100,499 respectively. 
